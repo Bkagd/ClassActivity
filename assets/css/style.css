@@ -1,0 +1,33 @@
+.jumbotron-fluid {
+	text-align: center;
+	background-color: #2262c2;
+	color: white;
+	margin-bottom: 15px;
+}
+.card-header {
+	background-color: #2262c2;
+	color: white;
+	border-radius: 5px;
+}
+#smallHeader {
+	padding: 5px;
+}
+.card-body {
+	border: solid #2262c2 1px;
+	border-radius: 5px;
+	padding: 10px; 
+}
+.container {
+	width: 95%;
+}
+footer {
+	width: 100%;
+	background-color: #2262c2;
+	margin-top: 25px;
+	padding: 5px;
+	color: white;
+	text-align: center;
+}
+.label-primary {
+	margin-right: 3px;
+}
